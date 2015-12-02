@@ -29,7 +29,7 @@ app.get('/quotes/:id', function(req, res) {
       mongo = require('mongodb');
 // var prompt = require('prompt');
   var assert = require('assert');
-  mongo.connect('mongodb://heroku_9695fwwt:dqq4976el73qnuqu2ivgho4qeo@ds059284.mongolab.com:59284/heroku_9695fwwt', {}, function(error, db) {
+  mongo.connect('mongodb://heroku_d03kn7hw:4pd26pbsinojodrga1hkp3sjv5@ds045604.mongolab.com:45604/heroku_d03kn7hw', {}, function(error, db) {
 
     if (error) {
       return console.log("Not connected");
