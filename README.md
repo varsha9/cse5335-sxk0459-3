@@ -1,38 +1,12 @@
-# node-js-getting-started
+# What aspect of the implementation did you find easy, if any, and why?
 
-A barebones Node.js app using [Express 4](http://expressjs.com/).
+    I found it very easy to develop the server side implementation with Node.js as it is well integrated with MongoDB. The       routing functions & framework helped me in developing the logic quickly.It helped in handling HTTP method of the request     such as GET, PUT, POST etc and also router level middleware calls easily.
+    
+# What aspect of the implementation did you find hard, if any, and why?
 
-This application supports the [Getting Started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - check it out.
+    After knowing and working on the languages I chose to develop the project, I found it really easy to develop this. So I
+    actually did not find any aspect of this implementation hard.
+    
+# If you were to use these technologies professionally, what would be your biggest concern?
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-
-## Running Locally
-
-Make sure you have [Node.js](http://nodejs.org/) and the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
-
-```sh
-$ git clone git@github.com:heroku/node-js-getting-started.git # or clone your own fork
-$ cd node-js-getting-started
-$ npm install
-$ npm start
-```
-
-Your app should now be running on [localhost:5000](http://localhost:5000/).
-
-## Deploying to Heroku
-
-```
-$ heroku create
-$ git push heroku master
-$ heroku open
-```
-
-## Documentation
-
-For more information about using Node.js on Heroku, see these Dev Center articles:
-
-- [Getting Started with Node.js on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
-- [Heroku Node.js Support](https://devcenter.heroku.com/articles/nodejs-support)
-- [Node.js on Heroku](https://devcenter.heroku.com/categories/nodejs)
-- [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)
-- [Using WebSockets on Heroku with Node.js](https://devcenter.heroku.com/articles/node-websockets)
+    If I were to use these technologies professionally, i would like to use them very much because these have great usability     and ease for developing web applications. As a matter of fact i woudn't be thinking of the biggesst concerns not to be       using these technologies since they are so developed and framed to meet all the requirements of any project.
